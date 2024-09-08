@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hello everyone, my name is Alexander 👋</h1>
+<h3 align="center">Frontend-developer from Russia</h3>
 
+<h3>About Me</h3>
+<h3>Languages and Tools</h3>
 <!--
 **perelyaev/perelyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
